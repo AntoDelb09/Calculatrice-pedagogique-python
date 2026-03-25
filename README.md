@@ -13,28 +13,18 @@ Ce projet est une calculatrice en ligne de commande simple conçue pour enseigne
 
 ## Interfaces Graphiques Disponibles
 
-### Interface Tkinter Simplifiée (Recommandée)
+### Interface Tkinter Simplifiée (Recommandée - Compatible avec WinPython)
 ```bash
 # Double-cliquez sur run_gui_simple.bat
-# ou
+# ou en PowerShell
 .\run_gui_simple.ps1
 ```
 
-### Interface Tkinter Complète
-```bash
-# Double-cliquez sur run_gui.bat
-# ou
-.\run_gui.ps1
-```
-
-### Interface PySimpleGUI (Plus Simple)
-```bash
-# Installation requise
-pip install PySimpleGUI
-
-# Puis lancement
-python src/calculator_gui_simple.py
-```
+Caractéristiques :
+- ✅ Aucune installation supplémentaire
+- ✅ Interface claire et simple
+- ✅ Buttons Calculer et Effacer
+- ✅ Gestion complète des erreurs
 
 ## Concepts Python Illustrés
 
