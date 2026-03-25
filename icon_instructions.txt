@@ -1,0 +1,39 @@
+INSTRUCTIONS POUR CRÉER UNE ICÔNE PERSONNALISÉE POUR LA CALCULATRICE :
+
+1. Ouvrez Microsoft Paint ou un éditeur d'images (comme GIMP, Photoshop, etc.)
+2. Créez une nouvelle image de 256x256 pixels
+3. Dessinez un rectangle blanc avec une bordure noire (comme une calculatrice)
+4. Ajoutez le texte "CALC" en bleu au centre en police Arial gras taille 72
+5. Ajoutez les symboles "+ - × ÷" en gris dessous en police Arial taille 48
+6. Sauvegardez l'image en PNG (calculator_icon.png)
+7. Allez sur un site de conversion comme https://favicon.io/favicon-converter/
+8. Téléchargez votre PNG et convertissez-le en ICO
+9. Renommez le fichier en "calculator_icon.ico"
+10. Placez-le dans ce dossier (c:\Users\L069857\Documents\A_Travail\Projet_Copilot)
+
+ALTERNATIVE RAPIDE :
+- Utilisez l'icône par défaut de Windows pour les raccourcis
+- L'icône système de calculatrice est généralement dans C:\Windows\System32\calc.exe
+
+POUR CRÉER UN RACCOURCI AVEC ICÔNE PERSONNALISÉE :
+
+Étape 1 - Créer le raccourci :
+1. Faites un clic droit sur le fichier "run_gui_simple.bat"
+2. Sélectionnez "Créer un raccourci" dans le menu
+3. Le raccourci sera créé dans le même dossier
+
+Étape 2 - Déplacer le raccourci sur le bureau :
+1. Coupez le raccourci créé (Ctrl+X)
+2. Collez-le sur le bureau (Ctrl+V)
+
+Étape 3 - Changer l'icône du raccourci :
+1. Faites un clic droit sur le raccourci desktop
+2. Sélectionnez "Propriétés" dans le menu contextuel
+3. Dans la fenêtre des propriétés, cliquez sur l'onglet "Raccourci"
+4. Cliquez sur le bouton "Changer d'icône..." (il se trouve en bas à droite)
+5. Dans la nouvelle fenêtre, cliquez sur "Parcourir..."
+6. Naviguez vers le dossier du projet et sélectionnez "calculator_icon.ico"
+7. Cliquez sur "OK" pour valider
+8. Cliquez sur "Appliquer" puis "OK" dans la fenêtre des propriétés
+
+Si vous n'avez pas encore créé calculator_icon.ico, suivez d'abord les étapes 1-10 ci-dessus.

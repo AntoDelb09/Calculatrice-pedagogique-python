@@ -92,3 +92,15 @@ Résultat: 5.0 + 3.0 = 8.0
 - Interface graphique avec Tkinter
 - Support pour des expressions mathématiques complexes
 - Historique des calculs
+
+## Personnalisation de l'Icône
+
+Pour changer l'icône du raccourci desktop :
+
+1. Consultez le fichier `icon_instructions.txt` pour les instructions détaillées
+2. Créez une icône personnalisée ou utilisez une icône système Windows
+3. Appliquez-la au raccourci via les propriétés du raccourci
+
+## Licence
+
+Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
