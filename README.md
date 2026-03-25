@@ -11,6 +11,31 @@ Ce projet est une calculatrice en ligne de commande simple conçue pour enseigne
   - `test_calculator.py`: Tests pour les fonctions de calcul
 - `requirements.txt`: Dépendances (vide pour ce projet)
 
+## Interfaces Graphiques Disponibles
+
+### Interface Tkinter Simplifiée (Recommandée)
+```bash
+# Double-cliquez sur run_gui_simple.bat
+# ou
+.\run_gui_simple.ps1
+```
+
+### Interface Tkinter Complète
+```bash
+# Double-cliquez sur run_gui.bat
+# ou
+.\run_gui.ps1
+```
+
+### Interface PySimpleGUI (Plus Simple)
+```bash
+# Installation requise
+pip install PySimpleGUI
+
+# Puis lancement
+python src/calculator_gui_simple.py
+```
+
 ## Concepts Python Illustrés
 
 - **Fonctions**: Définition, paramètres, valeurs de retour, docstrings
@@ -20,6 +45,7 @@ Ce projet est une calculatrice en ligne de commande simple conçue pour enseigne
 - **Gestion d'Erreurs**: try/except pour les exceptions
 - **Tests Unitaires**: Utilisation de unittest pour vérifier le code
 - **Point d'Entrée**: if __name__ == "__main__"
+- **Interfaces Graphiques**: Tkinter et PySimpleGUI pour l'interface utilisateur
 
 ## Installation
 
