@@ -1,0 +1,3 @@
+# requirements.txt
+# Liste des dépendances Python pour ce projet.
+# Vide car ce projet n'utilise que la bibliothèque standard.
